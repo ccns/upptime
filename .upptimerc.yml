@@ -4,8 +4,6 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: 2019-Fall-CTF
-    url: https://2019fall.ctf.ccns.io
   - name: Alpine Linux Mirror
     url: https://alpine.ccns.ncku.edu.tw/alpine
   - name: CentOS Linux Mirror
@@ -18,12 +16,8 @@ sites:
     url: $GRAFANA_URL
   - name: CCNS IPAM
     url: $CCNS_IPAM_URL
-  - name: CCNS Jupyter
-    url: https://jupyter.ccns.io
   - name: CCNS Kubernetes
     url: $CCNS_K8S_URL
-  - name: CCNS Event Leaderboard
-    url: http://leaderboard.ccns.ncku.edu.tw
   - name: CCNS LibreNMS
     url: $CCNS_LIBRENMS_URL
   - name: CCNS Minecraft Map
