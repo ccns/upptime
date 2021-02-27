@@ -9,7 +9,7 @@ sites:
   - name: Alpine Linux Mirror
     url: https://alpine.ccns.ncku.edu.tw/alpine
   - name: CentOS Linux Mirror
-    url: https://centos.ccns.ncku.edu.tw/CentOS
+    url: https://centos.ccns.ncku.edu.tw/centos
   - name: Debian Linux Mirror
     url: https://debian.ccns.ncku.edu.tw/debian
   - name: Discord Invitation
