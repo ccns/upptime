@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/2019fall.ctf.ccns.io",
     "slug": "2019-fall-ctf",
     "status": "down",
-    "uptime": "14.92%",
-    "uptimeDay": "14.92%",
-    "uptimeWeek": "14.92%",
-    "uptimeMonth": "14.92%",
-    "uptimeYear": "14.92%",
+    "uptime": "1.99%",
+    "uptimeDay": "1.99%",
+    "uptimeWeek": "1.99%",
+    "uptimeMonth": "1.99%",
+    "uptimeYear": "1.99%",
     "time": 3938,
     "timeDay": 3938,
     "timeWeek": 3938,
     "timeMonth": 3938,
     "timeYear": 3938,
     "dailyMinutesDown": {
-      "2021-02-27": 1
+      "2021-02-27": 9
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/centos.ccns.ncku.edu.tw",
     "slug": "cent-os-linux-mirror",
     "status": "down",
-    "uptime": "5.45%",
-    "uptimeDay": "5.45%",
-    "uptimeWeek": "5.45%",
-    "uptimeMonth": "5.45%",
-    "uptimeYear": "5.45%",
+    "uptime": "0.52%",
+    "uptimeDay": "0.52%",
+    "uptimeWeek": "0.52%",
+    "uptimeMonth": "0.52%",
+    "uptimeYear": "0.52%",
     "time": 1415,
     "timeDay": 1415,
     "timeWeek": 1415,
     "timeMonth": 1415,
     "timeYear": 1415,
     "dailyMinutesDown": {
-      "2021-02-27": 1
+      "2021-02-27": 9
     }
   },
   {
@@ -135,18 +135,18 @@
     "icon": "https://favicons.githubusercontent.com/jupyter.ccns.io",
     "slug": "ccns-jupyter",
     "status": "down",
-    "uptime": "21.56%",
-    "uptimeDay": "21.56%",
-    "uptimeWeek": "21.56%",
-    "uptimeMonth": "21.56%",
-    "uptimeYear": "21.56%",
+    "uptime": "1.82%",
+    "uptimeDay": "1.82%",
+    "uptimeWeek": "1.82%",
+    "uptimeMonth": "1.82%",
+    "uptimeYear": "1.82%",
     "time": 3910,
     "timeDay": 3910,
     "timeWeek": 3910,
     "timeMonth": 3910,
     "timeYear": 3910,
     "dailyMinutesDown": {
-      "2021-02-27": 1
+      "2021-02-27": 9
     }
   },
   {
@@ -173,18 +173,18 @@
     "icon": "https://favicons.githubusercontent.com/leaderboard.ccns.ncku.edu.tw",
     "slug": "ccns-event-leaderboard",
     "status": "down",
-    "uptime": "10.30%",
-    "uptimeDay": "10.30%",
-    "uptimeWeek": "10.30%",
-    "uptimeMonth": "10.30%",
-    "uptimeYear": "10.30%",
+    "uptime": "0.64%",
+    "uptimeDay": "0.64%",
+    "uptimeWeek": "0.64%",
+    "uptimeMonth": "0.64%",
+    "uptimeYear": "0.64%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-27": 1
+      "2021-02-27": 9
     }
   },
   {
@@ -192,18 +192,20 @@
     "url": "$CCNS_LIBRENMS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ccns-libre-nms",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1047,
-    "timeDay": 1047,
-    "timeWeek": 1047,
-    "timeMonth": 1047,
-    "timeYear": 1047,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "96.48%",
+    "uptimeDay": "96.48%",
+    "uptimeWeek": "96.48%",
+    "uptimeMonth": "96.48%",
+    "uptimeYear": "96.48%",
+    "time": 2035,
+    "timeDay": 2035,
+    "timeWeek": 2035,
+    "timeMonth": 2035,
+    "timeYear": 2035,
+    "dailyMinutesDown": {
+      "2021-02-27": 0
+    }
   },
   {
     "name": "CCNS Minecraft Map",
