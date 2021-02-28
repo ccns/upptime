@@ -1,7 +1,7 @@
 url: https://smokeping.ccns.io
-status: up
-code: 200
-responseTime: 1005
-lastUpdated: 2021-02-27T23:06:09.242Z
+status: down
+code: 523
+responseTime: 472
+lastUpdated: 2021-02-28T16:10:50.398Z
 startTime: Sat Feb 27 2021 16:58:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
