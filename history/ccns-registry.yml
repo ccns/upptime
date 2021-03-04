@@ -1,7 +1,7 @@
 url: https://registry.ccns.io
-status: down
-code: 502
-responseTime: 19414
-lastUpdated: 2021-03-04T06:00:07.570Z
+status: up
+code: 200
+responseTime: 985
+lastUpdated: 2021-03-04T21:00:39.197Z
 startTime: Sat Feb 27 2021 16:58:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
