@@ -1,7 +1,7 @@
 url: https://smokeping-tanet-tnn-1.ccns.io
-status: down
-code: 502
-responseTime: 879
-lastUpdated: 2021-03-04T14:36:09.875Z
+status: up
+code: 200
+responseTime: 17722
+lastUpdated: 2021-03-04T14:47:12.730Z
 startTime: Sat Feb 27 2021 16:58:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
