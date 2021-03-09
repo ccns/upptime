@@ -1,7 +1,7 @@
 url: $CCNS_PASSBOLT_URL
-status: up
-code: 200
-responseTime: 1203
-lastUpdated: 2021-03-08T23:07:29.016Z
+status: down
+code: 502
+responseTime: 2738
+lastUpdated: 2021-03-09T21:03:15.302Z
 startTime: Sat Feb 27 2021 16:58:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
