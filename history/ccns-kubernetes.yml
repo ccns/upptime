@@ -1,7 +1,7 @@
 url: $CCNS_K8S_URL
-status: up
-code: 200
-responseTime: 831
-lastUpdated: 2021-03-09T23:06:09.166Z
+status: down
+code: 502
+responseTime: 837
+lastUpdated: 2021-03-10T19:20:58.246Z
 startTime: Sat Feb 27 2021 16:57:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
