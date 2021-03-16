@@ -310,17 +310,17 @@
     "url": "$CCNS_UNIFI_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ccns-uni-fi-controller",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2190,
-    "timeDay": 10291,
-    "timeWeek": 3527,
-    "timeMonth": 2190,
-    "timeYear": 2190,
+    "time": 2136,
+    "timeDay": 7214,
+    "timeWeek": 3253,
+    "timeMonth": 2136,
+    "timeYear": 2136,
     "dailyMinutesDown": {}
   }
 ]
